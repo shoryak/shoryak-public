@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on shoryak</title>
+    <link>https://shoryak.github.io/tags/html/</link>
+    <description>Recent content in html on shoryak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shoryak.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shoryak.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoryak.github.io/about/</guid>
+      <description>Hi there,    I am currently pursuing bachelors in Electrical engineering and Computer Sciences at IIT Kanpur. Initially, I grew up in a small town in uttarakhand, then moved to BVM a Boarding school in Nainital. After high school, I decided to pursue engineering and somehow ended up here today. I have always been a curious person and enjoyed learning new things. My Interests mostly originate when I come across excellent resources on any subject, a lot on internet thesedays , especially during infamous COVID lockdown.</description>
+    </item>
+    
+    <item>
+      <title>Course-work</title>
+      <link>https://shoryak.github.io/courses/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoryak.github.io/courses/</guid>
+      <description>Below follows a brief summary of coursework, I did at IIT Kanpur during my UG studies    First sem     Real Analysis and multivariable calculus Mechanics Engineering Drawing Introduction to biology Physics Laboratory Introduction to Indian Philosophy  Second sem     Linear algebra and ODE Electrodynamics General chemistry Fundamentals of Computing Chemistry Laboratory  Third sem     Data Structures and Algorithms Introduction to Electronics Signal , systems and Networks Introduction to political Philosophy Complex Analysis Partial Differential Equations  Fourth sem     Analog Electronics Control System Analysis Modern Cryptology Introduction to Electrical Engineering Probability And Statistics  Fifth sem     Digital Electronics Principles of Communication Power systems Design and Analysis of Algorithms Theory of Computation  </description>
+    </item>
+    
+  </channel>
+</rss>
